@@ -13,7 +13,7 @@ for L1 in movies:
         print(L1)
 '''
 #使用涵數簡化多層遞迴
-#
+#123
 def _Level_(List):
     for L1 in List:
         if isinstance(L1,list):
